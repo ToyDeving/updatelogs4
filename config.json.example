@@ -1,0 +1,42 @@
+{
+  "developer": [
+    "327887845270487041",
+    "255834596766253057"
+  ],
+  "prefix": ".",
+  "support_invite": "G5pEdUp",
+  "staff_alert_role": "",
+  "release": "special",
+  "emoji": {
+    "x": "suggester_x:704665482828972113",
+    "mid": "suggester_mid:704666116294705212",
+    "check": "suggester_check:704665656573952040"
+  },
+  "log_hooks": {
+    "commands": {
+      "id": "",
+      "token": ""
+    },
+    "core": {
+      "id": "",
+      "token": ""
+    },
+    "guild": {
+      "id": "",
+      "token": ""
+    },
+    "debug": {
+      "id": "",
+      "token": ""
+    },
+    "staff_alert": {
+      "id": "",
+      "token": ""
+    },
+    "media": {
+      "id": "",
+      "token": ""
+    }
+  },
+  "lists": {}
+}

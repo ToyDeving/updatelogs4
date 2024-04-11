@@ -1,0 +1,41 @@
+{
+  "developer": [
+    "1128486268221784105" 
+  ],
+  "prefix": ".",
+  "support_invite": "G5pEdUp",
+  "staff_alert_role": "",
+  "release": "special",
+  "emoji": {
+    "x": "redmark:1145385229079556198",
+    "mid": "redmark:1145385229079556198",
+    "check": "checkmark:1145377495865110568"
+  },
+  "log_hooks": {
+    "commands": {
+      "id": "1145370351853903922",
+      "token": "T3P5MLKcC23wpiG91vO0lEvuG9JIGglXENUp1NgjSUJ0IRq9mvChX94UqPvs5w8I6d05"
+    },
+    "core": {
+       "id": "1145370351853903922",
+      "token": "T3P5MLKcC23wpiG91vO0lEvuG9JIGglXENUp1NgjSUJ0IRq9mvChX94UqPvs5w8I6d05"
+    },
+    "guild": {
+      "id": "1145370351853903922",
+      "token": "T3P5MLKcC23wpiG91vO0lEvuG9JIGglXENUp1NgjSUJ0IRq9mvChX94UqPvs5w8I6d05"
+    },
+    "debug": {
+       "id": "1145370351853903922",
+      "token": "T3P5MLKcC23wpiG91vO0lEvuG9JIGglXENUp1NgjSUJ0IRq9mvChX94UqPvs5w8I6d05"
+    },
+    "staff_alert": {
+      "id": "1145370351853903922",
+      "token": "T3P5MLKcC23wpiG91vO0lEvuG9JIGglXENUp1NgjSUJ0IRq9mvChX94UqPvs5w8I6d05"
+    },
+    "media": {
+       "id": "1145370351853903922",
+      "token": "T3P5MLKcC23wpiG91vO0lEvuG9JIGglXENUp1NgjSUJ0IRq9mvChX94UqPvs5w8I6d05"
+    }
+  },
+  "lists": {}
+}
